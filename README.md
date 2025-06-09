@@ -19,11 +19,11 @@ Every year, thousands of mothers lose their lives due to preventable causes. Und
 
 ---
 ## 🧑‍💻Contributers
--  1. Catherine Olwal  - ahendaolwal@gmail.com
--  2. Aron Kipkurui  - aronidengeno@gmail.com
--  3. Ouma Emmanuel  - emmanuelouma2000@gmail.com
--  4.  Effie Otieno  - effieauma0@gmail.com
--  5. Margaret Nungari Mungai  - maggienungari.mn@gmail.com
+-  Catherine Olwal  - ahendaolwal@gmail.com
+-  Aron Kipkurui  - aronidengeno@gmail.com
+-  Ouma Emmanuel  - emmanuelouma2000@gmail.com
+-  Effie Otieno  - effieauma0@gmail.com
+-  Margaret Nungari Mungai  - maggienungari.mn@gmail.com
 
 ## 🗂️ Project Structure
 
